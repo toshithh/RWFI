@@ -6,3 +6,4 @@ This program needs a machine with aircrack-ng installed.
 
 <h2>Or install using</h2>
 <em>./install.sh</em>
+And use command:<br>> <em>rwfi</em><br>To use
